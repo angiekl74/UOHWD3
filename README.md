@@ -37,7 +37,7 @@ The project is created with:
 
    Open index.html.  &nbsp; Below is a snapshot of the final chart.
 
-    <img src="Images/final_hw_image.png"  width="300" height="250">
+    <img src="Images/final_hw_image.PNG"  width="300" height="250">
 
 3. To visualize dynamic scatterplot (To review code, review appBonusAll.js file)
     * Included more demographics and more risk factors.
